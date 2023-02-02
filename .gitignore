@@ -131,6 +131,5 @@ dmypy.json
 # IDE
 .idea
 
-# passwords
-./user_data.txt
-./vk_data.txt
+# Passwords
+*_data.txt
