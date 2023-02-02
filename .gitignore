@@ -128,4 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# IDE
 .idea
+
+# passwords
+user_data.txt
+vk_data.txt
