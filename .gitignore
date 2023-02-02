@@ -132,4 +132,5 @@ dmypy.json
 .idea
 
 # Passwords
-*_data.txt
+user_data.txt
+vk_data.txt
